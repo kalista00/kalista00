@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=R&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
 
 </p>
 
