@@ -17,10 +17,10 @@
   <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
   <img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp 
   
 
 </p>
@@ -33,4 +33,5 @@
   <img src="https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white"></a>&nbsp 
 </div>
