@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
   
 
 </p>
