@@ -9,23 +9,9 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E"/></a> &nbsp
   <img src="https://img.shields.io/badge/dart-0175C2?style=flat&logo=dart&logoColor=white"> 
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp 
-  <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"></a>&nbsp 
-  
-
+  <img src="https://img.shields.io/badge/Spring Boot-%236DB33F?style=flat&logo=Spring Boot&logoColor=white&"></a>&nbsp  
 </p>
-
-
-
 <div align="center">
 <h2>Tools</h2>
-  <img src="https://img.shields.io/badge/github-181717.svg?style=flat&logo=github&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/git-F05032.svg?style=flat&logo=git&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC.svg?style=flat&logo=Sourcetree&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/androidstudio-3DDC84.svg?style=flat&logo=androidstudio&logoColor=white"></a>&nbsp 
   <img src="https://img.shields.io/badge/docker-2496ED.svg?style=flat&logo=docker&logoColor=white"></a>&nbsp 
-  <img src="https://img.shields.io/badge/rstudio-75AADB.svg?style=flat&logo=rstudio&logoColor=white"></a>&nbsp 
-</div>
